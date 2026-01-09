@@ -39,3 +39,26 @@ This project is built as a **Level 1 AI Task**, focusing on core AI interaction 
 
 ### 1️⃣ Install Ollama
 Download and install Ollama from:
+https://ollama.com
+
+
+Restart your system after installation.
+
+---
+
+### 2️⃣ Pull the Language Model
+Open PowerShell or Terminal and run:
+```bash
+ollama pull mistral
+
+Project Scope
+
+This project is intentionally kept simple to demonstrate:
+
+Basic AI interaction
+
+Prompt-based behavior control
+
+Offline inference using open-source models
+
+Advanced features like databases, embeddings, or memory are outside the scope of Level 1.
